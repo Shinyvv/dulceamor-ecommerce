@@ -1,0 +1,27 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 900' role='img' aria-label='Pastel Limon'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#ff8ab9'/>
+      <stop offset='55%' stop-color='#ffd8ea'/>
+      <stop offset='100%' stop-color='#fff4f8'/>
+    </linearGradient>
+    <radialGradient id='spot' cx='50%' cy='45%' r='55%'>
+      <stop offset='0%' stop-color='#ffffff' stop-opacity='0.9'/>
+      <stop offset='100%' stop-color='#ffffff' stop-opacity='0'/>
+    </radialGradient>
+  </defs>
+  <rect width='1200' height='900' fill='url(#bg)'/>
+  <circle cx='210' cy='130' r='150' fill='url(#spot)' opacity='0.4'/>
+  <circle cx='980' cy='170' r='130' fill='url(#spot)' opacity='0.34'/>
+  <rect x='170' y='200' width='860' height='470' rx='36' fill='#fff8fc' opacity='0.92'/>
+  <rect x='240' y='270' width='230' height='280' rx='26' fill='#ffffff'/>
+  <rect x='485' y='270' width='230' height='280' rx='26' fill='#ffffff'/>
+  <rect x='730' y='270' width='230' height='280' rx='26' fill='#ffffff'/>
+  <circle cx='355' cy='355' r='74' fill='#ffd8ea'/>
+  <circle cx='600' cy='355' r='74' fill='#ff8ab9'/>
+  <circle cx='845' cy='355' r='74' fill='#ffd8ea'/>
+  <rect x='260' y='460' width='190' height='20' rx='10' fill='#ff8ab9' opacity='0.75'/>
+  <rect x='505' y='460' width='190' height='20' rx='10' fill='#ff8ab9' opacity='0.75'/>
+  <rect x='750' y='460' width='190' height='20' rx='10' fill='#ff8ab9' opacity='0.75'/>
+  <text x='600' y='760' text-anchor='middle' font-size='54' font-family='Verdana, sans-serif' fill='#b54a79'>Pastel Limon</text>
+</svg>
